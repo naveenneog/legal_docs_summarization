@@ -1,4 +1,4 @@
-# Running the Python notebook for Legal documents Summarization using Langchain and RAG for summarization
+# Legal documents Summarization using Langchain Map Reduce and RAG for summarization
 
 This repo is built as a demo for the legal agreements summarization using Mapreduce 
 Please insert your file and try the lab
