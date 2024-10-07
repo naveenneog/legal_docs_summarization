@@ -1,8 +1,3 @@
-Below, I've refactored the code for each file, providing explanations for the changes made.  
-  
----  
-  
-```markdown  
 # Legal Documents Summarization using LangChain MapReduce and RAG  
   
 This repository demonstrates the summarization of legal agreements using **LangChain's MapReduce** and **Retrieval-Augmented Generation (RAG)** techniques. You can insert your own documents and explore the provided notebooks.  
